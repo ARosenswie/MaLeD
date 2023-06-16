@@ -10,4 +10,5 @@ Among these models, the Random Forest exhibited superior performance with the va
 ![](diabetic_data/images/metrics.png)
 
 Below is the Receiver Operating Characteristic (ROC) curve depicting the Random Forest model's classification performance. 
+
 ![](diabetic_data/images/roc.png)
