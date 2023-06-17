@@ -13,3 +13,5 @@ Among these models, XGB exhibited superior performance with the validation datas
 Below is the Receiver Operating Characteristic (ROC) curve depicting the XGB model's classification performance. 
 
 ![](diabetic_data/images/roc.png)
+
+Please note that this example is not intended for medical use.
