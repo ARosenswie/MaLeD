@@ -10,7 +10,7 @@ Among these models, the Neural Network exhibited superior performance with the v
 * and max_iter=3000.
 ![](diabetic_data/images/metrics.png)
 
-Below is the Receiver Operating Characteristic (ROC) curve depicting the XGB model's classification performance. 
+Below is the Receiver Operating Characteristic (ROC) curve depicting the NN model's classification performance. 
 
 ![](diabetic_data/images/roc.png)
 
